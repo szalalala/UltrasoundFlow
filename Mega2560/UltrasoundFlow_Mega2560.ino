@@ -42,7 +42,7 @@ void setup() {
   TCCR3C = B00000000;
   TIFR3 = TIFR3 | B00000010;//OCF3A
   TIMSK3 = TIMSK3 | B00000010;//OCIE3A
-  OCR3A = 15000; // Every 240 ms interup)
+  OCR3A = 15000; // Every 240 ms interup
   /**/
   TCNT4 = 0;
   TCNT1 = 0;
