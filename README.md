@@ -11,7 +11,6 @@ $$ Q=\vec{V}*\vec{A}\tag{1}\label{eq1}$$
 $$ [\frac{m^{3}}{s}=\frac{m}{s}*m^2]\tag{2}\label{eq2}$$
 
 ![Efective velocity](Pic/Teory1.png)
-\caption{}
 
 * afective velocity of the ultrasound wave in flow of medium - $\vec{V}_{ef}$
 * velocity of propagation of ultrasonic wave in a given medium - $\vec{c}$
