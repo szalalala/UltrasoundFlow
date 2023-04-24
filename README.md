@@ -31,11 +31,14 @@ $$\vec{V}=\frac{L}{2cos\alpha}\frac{{t}_{2}-{t}_{1}}{{t}_{2}{t}_{1}}\tag{6}$$
 ## Implementation
 
 Piezoelectric membranes ware used to transmit and receive ultrasounds. For the receiving membrane, an amplifier was used according to the scheme :
+
 ![Receiving amplifier](Pic/amp_schem.png)
 Comparation of signal from membrane and from amplifier (blue signal from membrane, yellow after amp) :
+
 ![Amp of RX](Pic/RX_amp.png)
 Signal timing chart, yellow transmitted, blue amplified received :
-![][GitHub/UltrasonicFlowPhotos/TX_RX.png]
+
+![TX nad RX signals][Pic/TX_RX.png]
 
 ## Getting Started
 
