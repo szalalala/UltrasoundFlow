@@ -9,7 +9,7 @@ It's projekt for gas flow measurement with usage of ultrasound wave propagation 
 * cross-section of medium - $\vec{A}$
 
 $$ Q=\vec{V}*\vec{A}\tag{1}$$
-$$ [\frac{m^{3}}{s}=\frac{m}{s}*m^2]\tag{2}$$
+$$ \frac{m^{3}}{s}=\frac{m}{s}*m^2\tag{2}$$
 
 ![Efective velocity](Pic/Teory1.png)
 
@@ -33,6 +33,7 @@ $$\vec{V}=\frac{L}{2cos\alpha}\frac{{t}_{2}-{t}_{1}}{{t}_{2}{t}_{1}}\tag{6}$$
 Piezoelectric membranes ware used to transmit and receive ultrasounds. For the receiving membrane, an amplifier was used according to the scheme :
 
 ![Receiving amplifier](Pic/amp_schem.png)
+
 Comparation of signal from membrane and from amplifier (blue signal from membrane, yellow after amp) :
 
 ![Amp of RX](Pic/RX_amp.png)
@@ -41,7 +42,6 @@ Signal timing chart, yellow transmitted, blue amplified received :
 
 ![Amp of RX](Pic/TX_RX.png)
 
-## Getting Started
 
 To clone repository :
 ```
