@@ -36,9 +36,10 @@ Piezoelectric membranes ware used to transmit and receive ultrasounds. For the r
 Comparation of signal from membrane and from amplifier (blue signal from membrane, yellow after amp) :
 
 ![Amp of RX](Pic/RX_amp.png)
+
 Signal timing chart, yellow transmitted, blue amplified received :
 
-![TX nad RX signals][Pic/TX_RX.png]
+![Amp of RX](Pic/TX_RX.png)
 
 ## Getting Started
 
